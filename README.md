@@ -13,10 +13,10 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```
 
-### Build the app
+### install dependencies in frontend && backend
 
 ```shell
-npm run build
+npm install
 ```
 
 ### Start the app
